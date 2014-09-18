@@ -1,0 +1,15 @@
+/*
+Theme Name:     BTX2
+Description:    
+Author:         Dan
+Template:       pinboard
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../pinboard/style.css");
+
+#header {
+	border-top:#111 3px solid;
+	background-color:#ffffff;
+}
